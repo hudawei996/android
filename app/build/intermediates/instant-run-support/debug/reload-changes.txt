@@ -1,0 +1,5 @@
+CHANGED,/Users/huyongqiang/Downloads/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/traeg/nativejswebview/MainActivity$1$override.class
+CHANGED,/Users/huyongqiang/Downloads/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/traeg/nativejswebview/MainActivity$WebViewInterface$override.class
+CHANGED,/Users/huyongqiang/Downloads/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/huyongqiang/Downloads/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/traeg/nativejswebview/MainActivity$WebViewInterface$1$override.class
+CHANGED,/Users/huyongqiang/Downloads/android/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/traeg/nativejswebview/MainActivity$override.class

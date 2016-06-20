@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/huyongqiang/Downloads/android/app/src/main/assets"><file name="webviewContent.html" path="/Users/huyongqiang/Downloads/android/app/src/main/assets/webviewContent.html"/></source><source path="/Users/huyongqiang/Downloads/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/huyongqiang/Downloads/android/app/src/debug/assets"/></dataSet></merger>
